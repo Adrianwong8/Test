@@ -1,0 +1,50 @@
+ 
+  
+  .morning{
+
+      background-image: url("images/morning.jpg");
+   
+
+    }
+
+
+    .afternoon{
+
+      background-image: url("images/afternoon.jpg");
+   
+    }
+
+
+    .night{
+
+      background-image: url("images/night.jpg");
+   
+    }
+
+  
+  
+  
+  .section {
+
+      height: 100vh;
+      width: 100%;
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+      
+    }
+  
+    .text {
+      position: flex;
+      text-align: center;
+    
+  
+      color: white;
+      font-size: 3rem;
+      text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+    }
+  
+  
+ 
+
+
